@@ -1,0 +1,20 @@
+Após a instalação do miktex e do editor (winedt, wintex2000, emacs, gedit etc.), 
+você deve copiar os arquivos "mimc.cls e mimc.sty" que se encontram neste diretório no caminho "..\texmf\tex\latex\base" 
+para o diretório "..\texmf\tex\latex\base" onde o LaTeX foi instalado.
+
+Copie a pasta "Harvard" para usar o estilo criado que simula parte das normas ABNT.
+
+Depois você deve executar o comando de manutenção "Refresh Filename Database" em
+
+Início->Programas->Miktex->Maintenance->Refresh Filename Database (para windows em português)
+
+ou 
+
+Start->All Programs->Miktex->Maintenance->Refresh Filename Database (para windows em inglês)
+
+Divirta-se e bom trabalho de pesquisa!
+
+Salvador, 07 de abril de 2005
+
+Gilney Zebende
+Hernane Pereira
